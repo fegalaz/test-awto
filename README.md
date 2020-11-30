@@ -1,9 +1,7 @@
-# test-awto
+# Test-Awto
 Test fot Awto
 
 <a href="https://google.cl/"><img src="https://www.awto.cl/static/53fc5fd369ccc836745d0dd412055cf1/143f4/logo-awto-color.png" width="180px" align="right" /></a>
-
-# Test Accenture
 
 Proyecto cuya finalidad es consumir 3 APIRest
 
