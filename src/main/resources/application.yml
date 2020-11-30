@@ -1,0 +1,21 @@
+---
+spring:
+    application:
+        name : "Test Awto"
+    datasource:
+        driverClassName: org.h2.Driver
+        password: " "
+        url: jdbc:h2:file:C:/Users/Felipe/testAwto
+        username: "sa"
+    h2:
+        console:
+            enabled: true
+            path: /h2-console
+            settings:
+                trace: true
+                web-allow-others: false
+    jpa:
+        database-platform: org.hibernate.dialect.H2Dialect
+        hibernate:
+            ddl-auto: none
+        show-sql: true
